@@ -1,0 +1,6 @@
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/02UnderstandingTypes.exe
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/02UnderstandingTypes.pdb
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/02UnderstandingTypes.csprojAssemblyReference.cache
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/02UnderstandingTypes.exe
+/Users/nghivo/Documents/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/02UnderstandingTypes.pdb
