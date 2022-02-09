@@ -1,0 +1,6 @@
+/Users/nghivo/Documents/Assignment_1/Assignment_1/bin/Debug/Assignment_1.exe
+/Users/nghivo/Documents/Assignment_1/Assignment_1/bin/Debug/Assignment_1.pdb
+/Users/nghivo/Documents/Assignment_1/Assignment_1/obj/Debug/Assignment_1.csprojAssemblyReference.cache
+/Users/nghivo/Documents/Assignment_1/Assignment_1/obj/Debug/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/nghivo/Documents/Assignment_1/Assignment_1/obj/Debug/Assignment_1.exe
+/Users/nghivo/Documents/Assignment_1/Assignment_1/obj/Debug/Assignment_1.pdb
